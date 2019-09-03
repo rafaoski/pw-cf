@@ -182,7 +182,7 @@ function langMenu($page, $options = array()) {
 	$defaults = array(
 	'id' => 'lang-menu',
 	'class' => 'lang-menu padding-sm text-sm margin-y-md',
-	'current_class' => 'color-warning',
+	'current_class' => 'text-bold text-underline',
 	'no_current' => 'color-inherit',
 	'style' => 'overflow: auto; white-space: nowrap;'
 	);
