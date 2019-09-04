@@ -56,7 +56,6 @@ setting([
 	'no-found' =>  __('Sorry, no results were found.'),
 	'also-like' => __('You might also like:'),
 	'all-right' => __('All rights reserved'),
-	'learn-more' => __('Learn more about us'),
 	'read-more' => __('Read more'),
 	'maintenace-info' => __('Sorry the site is undergoing maintenance'),
 // Blog Translation
