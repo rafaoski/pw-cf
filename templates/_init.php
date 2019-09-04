@@ -80,7 +80,7 @@ setting([
 	'contact-message' => __("Message"),
 	'contact-submit' => __("Submit"),
 	'contact-acceptprivacy' => __("Accept Privacy Policy"),
-	'contact-privacy' =>  __('Before checking, read our privacy policy'),
+	'contact-privacy' =>  __('Before submit form, read our privacy policy'),
 	'csrf-failed' => __('CSRF check failed!'),
 	'contact-yourmessage' => __("Your Message"),
 	'contact-errorfix' => __('There were errors, please fix !!!'),
