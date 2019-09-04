@@ -77,7 +77,6 @@ setting([
 // Contact Page Translation
 	'contact-name' => __('Name'),
 	'contact-email' => __("Email"),
-	'contact-advphone' => __("Phone"),
 	'contact-message' => __("Message"),
 	'contact-submit' => __("Submit"),
 	'contact-acceptprivacy' => __("Accept Privacy Policy"),
