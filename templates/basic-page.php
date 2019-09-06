@@ -14,7 +14,7 @@
 
 			<p><?= $item->intro ?></p>
 
-			<a class='btn btn--primary' href="<?= $item->url ?>"><?= __('Read more') ?></a>
+			<a class='btn btn--primary' href="<?= $item->url ?>"><?= setting('read-more') ?></a>
 
 		</div>
 
